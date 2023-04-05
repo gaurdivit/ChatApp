@@ -18,8 +18,6 @@ const Messages = () => {
     };
   }, [data.chatId]);
 
-  console.log(messages[0].date);
-
   return (
     <div className="messages">
       {messages.map((m) => (
