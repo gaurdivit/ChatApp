@@ -1,3 +1,7 @@
+Video Tutorial :- 
+
+https://github.com/gaurdivit/ChatApp/assets/93473858/04f762bd-a237-4336-9b8c-f6f8f43256e6
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
